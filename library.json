@@ -12,7 +12,7 @@
     {
       "name": "Andre Palma",
       "email": "reguila2@gmail.com"
-    },
+    }
   ],
   "frameworks": "arduino",
   "platforms": "*"
