@@ -1,0 +1,19 @@
+{
+  "name": "buttons4ap",
+  "version": "1.0.0",
+  "keywords": "buttons",
+  "description": "Buttons with click, doubleclick",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/andrepalma/smarthome-buttons4ap"
+  },
+  "authors": [
+    {
+      "name": "Andre Palma",
+      "email": "reguila2@gmail.com"
+    },
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
